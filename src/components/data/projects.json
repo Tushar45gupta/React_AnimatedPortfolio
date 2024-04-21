@@ -1,0 +1,26 @@
+[
+    {
+        "key": 1,
+        "title": "Pharmacy Billing System",
+        "imageSrc": "projectsi/pharmacylogo.png",
+        "description": "This project is made wiith Java programming language and MySQL database."
+    },
+    {
+        "key": 2,
+        "title": "Face Recognition and Attendance System",
+        "imageSrc": "projectsi/facelogo.png",
+        "description": "This project is made with Python programming language and MySQL database"
+    },
+    {
+        "key": 3,
+        "title": "Portfolio Website",
+        "imageSrc": "projectsi/portfoliologo.png",
+        "description": "This project is made using ReactJs."
+    },
+    {
+        "key": 4,
+        "title": "TouroTravel",
+        "imageSrc": "projectsi/tuorotravel.jpg",
+        "description": "This project is made using ReactJs."
+    }
+]

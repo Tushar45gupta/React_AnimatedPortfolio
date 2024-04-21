@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "role": "Graphics Designing",
+        "organisation": "Fraterniti",
+        "startDate": "August, 2022",
+        "endDate": "Oct, 2022",
+        "location": "Gurugram, Haryana",
+        "experiences": [
+            "Worked on 3D modelling with good rendering",
+            "Video editing, rendering, making for marketing purpose."
+        ],
+        "imageSrc": "company/company_logo.png"
+    },
+    {
+        "id": 2,
+        "role": "Web/Software Developer",
+        "organisation": "Ducat India",
+        "startDate": "March, 2023",
+        "endDate": "March, 2024",
+        "location": "Kohat Enclave, NewDelhi",
+        "experiences": [
+            "Worked on webpages and handling the data",
+            "The data was handled using database."
+        ],
+        "imageSrc": "company/ducat_logo.png"
+    }
+]
